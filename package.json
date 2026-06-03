@@ -1,0 +1,9 @@
+{
+  "name": "antisec-recon",
+  "version": "3.0.0",
+  "description": "AntiSec Web Source Intelligence",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
